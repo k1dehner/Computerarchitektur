@@ -1,5 +1,4 @@
----
-title: Welcome to my blog
----
+# Das Schichtenmodell der Computerarchitektur 
 
-Themen die mich interessieren
+
+![](https://github.com/k1dehner/Computerarchitektur/blob/main/CA.JPG)
